@@ -60,9 +60,9 @@ The following table presents leading hosted and commercial product and business 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore battle-tested open-source alternatives for product behavioral analytics, event pipelines, self-hosted web metrics, and modern BI semantic layers. Entries are sorted by **GitHub Stars (descending)**.
+Explore battle-tested open-source alternatives for product behavioral analytics, event pipelines, self-hosted web metrics, and modern BI semantic layers. Entries are sorted by **GitHub_Stars (descending)**.
 
-| Project | ⭐ Stars | 🎯 Primary Domain & Focus | 🛠️ Key Capabilities & Architecture |
+| Project | ⭐ GitHub_Stars | 🎯 Primary Domain & Focus | 🛠️ Key Capabilities & Architecture |
 | :--- | :--- | :--- | :--- |
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Enterprise Business Intelligence | Enterprise-ready data visualization and exploration platform (Apache-2.0). Features an intuitive no-code chart builder, SQL Lab IDE, versatile semantic modeling layer, and connectors for 40+ SQL database engines. |
 | **[Metabase](https://github.com/metabase/metabase)** | [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Self-Service BI & Visual Querying | User-friendly business analytics and visualization tool (AGPL-3.0). Allows non-technical teammates to drill down into data, ask questions visually without SQL, set up automated alert digests, and embed interactive charts. |
@@ -124,7 +124,7 @@ Contributions are welcome! To add a product or open-source tool:
 1. 🍴 Fork this repository.
 2. 📝 Add the tool to the appropriate table matching the existing column layout.
 3. 💲 Ensure pricing and free tier limits are exact and verifiable.
-4. ⭐ Verify repository star count and include the social shield badge linked to `/stargazers`.
+4. ⭐ Verify repository Stars_Count and include the social shield badge linked to `/stargazers`.
 5. 🚀 Submit a pull request with a clear description of the project.
 
 ---
